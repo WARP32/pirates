@@ -1,0 +1,7 @@
+print("You see a flower field")
+"""in the flower field have a chance for the flowers to debuff the player in some way
+also in that chance have there be some chance of the flower field giving some kind of
+buff to the player too something that increases strength aim or how much food they consume
+make it so they can pick between two of those options. the debuffs should be the opposite or instant death.
+the chance for buff or debuff should be a chest that is placed suspiciously in the middle of the
+flower field
